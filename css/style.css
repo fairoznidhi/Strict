@@ -328,10 +328,10 @@ footer{
 }
 .left{
     color:#a0a0a0;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 .right{
-    width: 15%;
+    width: 18%;
 display: flex;
 justify-content: space-between;
 }
@@ -345,5 +345,5 @@ justify-content: space-between;
 }
 .footer_icon i{
     color: #ffffff;
-    font-size: 20px;
+    font-size: 15px;
 }
